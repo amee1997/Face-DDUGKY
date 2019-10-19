@@ -1,0 +1,161 @@
+      .main{
+          width:100%;
+          height: 25em;
+          background-repeat: no-repeat;
+          background-position: right top;
+          background-image:url("../cover.jpg");
+          }
+  .mission{
+            margin-top: 4%;
+            font-family: "Ubuntu",sans-serif;
+            font-size: 30px;
+            }
+     .mission p{
+               font-weight: 400px;
+               }
+      .obj p{
+            font-family: "Ubuntu",sans-serif;
+            }
+            .logo img{
+                     width: 15%;
+                     }
+      .ddu img{
+              width:40%;
+              height:10%;
+              margin-top: 1em;
+              margin-left:3%;
+              border:1px solid white;
+              }
+.stack{
+      margin-left: 44%;
+      margin-top: -11em;
+      width: 56%;
+      text-align: left;
+      height: 11em;
+      border: 1px solid lightgrey;
+      font-family: "Ubuntu",sans-serif;
+      }
+  .stack a{
+          text-decoration: none;
+          }
+.main2{
+      width:100%;
+      height: 20em;
+      border: 1px solid white;
+      font-family: "Ubuntu",sans-serif
+      }
+
+.projects{
+         font-family: "Ubuntu",sans-serif;
+         height: 15em;
+         width: 57%;
+         border: 1px solid lightgrey;
+         background-color: lightgrey;
+         }
+ .main3{
+       width:40%;
+       border: 1px solid white;
+       margin-left: 58%;
+       margin-top: -20em;
+       height: 20em;
+       font-family: "Ubuntu",sans-serif;
+       }
+.announ{
+       border: 1px solid white;
+       font-size: 17px;
+       width: 90%;
+       margin-left: 5%;
+       height: 13em;
+       font-weight: normal;
+       font-family: "Ubuntu",sans-serif;
+       background-color: lightgrey;
+       }
+  .announ input[type=button]{
+                            background-color: red;
+                            }
+.main4{
+      width: 100%;
+      font-family: "Ubuntu",sans-serif;
+      background-image: url("../keyboard.jpg");
+      border: 1px solid white;
+      height: 30em;
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-position: right top;
+      }
+.java{
+     width:40%;
+     height:15em;
+     border: 1px solid white;
+     margin-top: 7em;
+     font-size: 17px;
+     margin-left: 5%;
+     }
+    .skill{
+          width:37%;
+          height:27em;
+          border: 1px solid white;
+          margin-top: -22em;
+          font-size: 16px;
+          margin-left: 55%;
+          background-color: white;
+          }
+.dot{
+    height: 6px;
+    width: 6px;
+    background-color: black;
+    border-radius: 6px;
+    display: inline-block;
+    }
+       .oyo{
+           width: 100%;
+           height: 7em;
+           border: 1px solid white;
+           }
+    .final{
+          width: 100%;
+          height: 50em;
+          border: 1px solid white;
+          }
+.face{
+     height: 5em;
+     width: 10%;
+     border: 1px solid white;
+     margin-left: 1%;
+     margin-top: -48em;
+     }
+.about{
+      width: 10%;
+      height: 13em;
+      border: 1px solid white;
+      font-family: "Ubuntu",sans-serif;
+      margin-left: 70%;
+      margin-top: -5em;
+      font-size: 17px;
+      }
+.contact{
+        width: 10%;
+        height: 13em;
+        border: 1px solid white;
+        font-family: "Ubuntu",sans-serif;
+        margin-left: 85%;
+        margin-top: -13em;
+        font-size: 17px;
+        }
+.social{
+       width: 20%;
+       height: 13em;
+       border: 1px solid white;
+       margin-left: 40%;
+       margin-top: 13em;
+       font-size: 20px;
+       text-align: center;
+       font-family: "Ubuntu",sans-serif;
+       }
+ .footer{
+         margin-top: -7em;
+         padding: 2px;
+         font-size: 17px;
+         text-align: center;
+         background-color: white;
+        }
